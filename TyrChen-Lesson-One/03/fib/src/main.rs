@@ -1,3 +1,7 @@
+/**
+ * 斐波那契数列
+ * 使用 if/loop/while/for 等控制语句
+ */
 fn fib_loop(n: u8) {
     let mut a = 1;
     let mut b = 1;

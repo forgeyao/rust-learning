@@ -1,3 +1,7 @@
+/*
+ * 函数作为参数的例子
+ */
+
 fn apply(value: i32, f: fn(i32) -> i32) -> i32 {
     f(value)
 }
