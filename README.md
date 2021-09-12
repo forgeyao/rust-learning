@@ -7,3 +7,4 @@ Rust 学习
     + [02 | 串讲：编程开发中，那些你需要掌握的基本概念](./TyrChen-Lesson-One/02)
     + [03 | 初窥门径：从你的第一个 Rust 程序开始！](./TyrChen-Lesson-One/03)
     + [04 | get hands dirty：来写个实用的CLI小工具](./TyrChen-Lesson-One/04)
+    + [05 | get hands dirty：做一个图片服务器有多难？](./TyrChen-Lesson-One/05)
