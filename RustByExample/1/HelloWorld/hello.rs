@@ -1,5 +1,5 @@
 /**
- * Hellow World 练习实用 println
+ * Hellow World 练习使用 println
  * https://doc.rust-lang.org/rust-by-example/hello.html
  */
 
