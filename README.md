@@ -24,3 +24,9 @@ Rust 学习
     + [2.1 操作符 Operators](./RustByExample/2/Operators)
     + [2.2 元组 Tuples](./RustByExample/2/Tuples)
     + [2.3 数组与切片 Arrays and Slices](./RustByExample/2/Arrays)
+
++ [3. 自定义类型](./RustByExample/3)
+    + [3.1 结构体 Structures](./RustByExample/3/Structures)
+    + [3.2 枚举 Enums](./RustByExample/3/Enums)
+        + [3.2.1 use](./RustByExample/3/Use)
+        + [3.2.2 C 风格 Enums](./RustByExample/3/CLike)
