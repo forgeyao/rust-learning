@@ -13,10 +13,14 @@ Rust 学习
 
 ## 2. [Rust By Example](https://doc.rust-lang.org/rust-by-example/index.html)
 
-+ [1. Hello World](./RustByExample/1/HellowWorld)
++ [1. Hello World](./RustByExample/1/HelloWorld)
     + [1.1 注释 Comments](./RustByExample/1/Comments)
     + [1.2 格式化输出 Formatted print](./RustByExample/1/FormattedPrint)
         + [1.2.1 Debug 输出](./RustByExample/1/Debug)
         + [1.2.2 Display 输出](./RustByExample/1/Display)
             + [1.2.2.1 测试用例 List 输出](./RustByExample/1/List)
         + [1.2.3 Formatting 输出](./RustByExample/1/Formatting)
++ [2. 基本类型](./RustByExample/2/Primitives)
+    + [2.1 操作符 Operators](./RustByExample/2/Operators)
+    + [2.2 元组 Tuples](./RustByExample/2/Tuples)
+    + [2.3 数组与切片 Arrays and Slices](./RustByExample/2/Arrays)
