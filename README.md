@@ -39,3 +39,9 @@ Rust 学习
     + [4.2 作用域与覆盖 Scope and Shadowing](./RustByExample/4/Scope)
     + [4.3 先声明 Declare first](./RustByExample/4/Declare)
     + [4.4 冻结 Freezing](./RustByExample/4/Freezing)
+
++ [5 类型](./RustByExample/5)
+    + [5.1 类型转换 Casting](./RustByExample/5/Casting)
+    + [5.2 字面上的类型 Literals](./RustByExample/5/Literals)
+    + [5.3 类型推断 Inference](./RustByExample/5/Inference)
+    + [5.4 别名 Aliasing](./RustByExample/5/Aliasing)
