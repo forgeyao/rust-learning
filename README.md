@@ -45,3 +45,8 @@ Rust 学习
     + [5.2 字面上的类型 Literals](./RustByExample/5/Literals)
     + [5.3 类型推断 Inference](./RustByExample/5/Inference)
     + [5.4 别名 Aliasing](./RustByExample/5/Aliasing)
+
++ [6 转换](./RustByExample/6)
+    + [6.1 From and Into](./RustByExample/6/FromInto)
+    + [6.2 TryFrom and TryInto](./RustByExample/6/TryFromInto)
+    + [6.3 To and from Strings](./RustByExample/6/ToFromStrings)
