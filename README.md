@@ -56,6 +56,9 @@ Rust 学习
             + [8.5.1.2 match enums](./RustByExample/8/MatchEnums)
             + [8.5.1.3 match pointers/ref](./RustByExample/8/MatchPointers)
             + [8.5.1.4 match structs](./RustByExample/8/MatchStructs)
+        + [8.5.2 Guards](./RustByExample/8/Guards)
+        + [8.5.3 Bindings](./RustByExample/8/Bindings)
+    + [8.6 if let](./RustByExample/8/IfLet)
 
 
 ## 2. 极客时间 [陈天 · Rust 编程第一课](https://time.geekbang.org/column/intro/435)
