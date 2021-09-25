@@ -59,6 +59,11 @@ Rust 学习
         + [8.5.2 Guards](./RustByExample/8/Guards)
         + [8.5.3 Bindings](./RustByExample/8/Bindings)
     + [8.6 if let](./RustByExample/8/IfLet)
+    + [8.7 while let](./RustByExample/8/WhileLet)
+
++ [9 函数](./RustByExample/9)
+    + [9.1 方法 Methods](./RustByExample/9/Methods)
+    + [9.2 闭包 Closures](./RustByExample/9/Closures)
 
 
 ## 2. 极客时间 [陈天 · Rust 编程第一课](https://time.geekbang.org/column/intro/435)
