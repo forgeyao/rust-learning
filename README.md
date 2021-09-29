@@ -64,6 +64,8 @@ Rust 学习
 + [9 函数](./RustByExample/9)
     + [9.1 方法 Methods](./RustByExample/9/Methods)
     + [9.2 闭包 Closures](./RustByExample/9/Closures)
+        + [9.2.6 std 中的闭包例子](./RustByExample/9/IteratorAny)
+            + [9.2.6.1 Iterator::any](./RustByExample/9/IteratorAny)
 
 
 ## 2. 极客时间 [陈天 · Rust 编程第一课](https://time.geekbang.org/column/intro/435)
