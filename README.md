@@ -64,9 +64,13 @@ Rust 学习
 + [9 函数](./RustByExample/9)
     + [9.1 方法 Methods](./RustByExample/9/Methods)
     + [9.2 闭包 Closures](./RustByExample/9/Closures)
+        + [9.2.1 Capturing](./RustByExample/9/Capturing)
+        + [9.2.2 As input parameters](./RustByExample/9/AsInput)
+        + [9.2.3 Type anonymity](./RustByExample/9/TypeAnonymity)
+        + [9.2.4 Input functions](./RustByExample/9/InputFunctions)
+        + [9.2.5 As output parameters](./RustByExample/9/AsOutput)
         + [9.2.6 std 中的闭包例子](./RustByExample/9/IteratorAny)
             + [9.2.6.1 Iterator::any](./RustByExample/9/IteratorAny)
-
 
 ## 2. 极客时间 [陈天 · Rust 编程第一课](https://time.geekbang.org/column/intro/435)
 
