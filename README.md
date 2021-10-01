@@ -71,6 +71,9 @@ Rust 学习
         + [9.2.5 As output parameters](./RustByExample/9/AsOutput)
         + [9.2.6 std 中的闭包例子](./RustByExample/9/IteratorAny)
             + [9.2.6.1 Iterator::any](./RustByExample/9/IteratorAny)
+            + [9.2.6.2 Searching through iterators](./RustByExample/9/IteratorSearch)
+    + [9.3 Higher Order Functions](./RustByExample/9/HigherOrderFun)
+    + [9.4 发散函数 Diverging functions](./RustByExample/9/DivergingFun)
 
 ## 2. 极客时间 [陈天 · Rust 编程第一课](https://time.geekbang.org/column/intro/435)
 
