@@ -82,6 +82,10 @@ Rust 学习
     + [10.4 super and self](./RustByExample/10/SuperSelf)
     + [10.5 文件层次 File hierarchy](./RustByExample/10/FileHierarchy)
 
++ [11 Crates](./RustByExample/11)
+    + [11.1 创建 library](./RustByExample/11/Lib)
+    + [11.2 使用 library](./RustByExample/11/UseLib)
+
 
 ## 2. 极客时间 [陈天 · Rust 编程第一课](https://time.geekbang.org/column/intro/435)
 
