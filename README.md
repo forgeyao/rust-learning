@@ -86,6 +86,19 @@ Rust 学习
     + [11.1 创建 library](./RustByExample/11/Lib)
     + [11.2 使用 library](./RustByExample/11/UseLib)
 
++ [12 Cargo](./RustByExample/12)
+    + [12.1 依赖 Dependencies](./RustByExample/12/Dependencies)
+    + [12.2 惯例 Conventions](./RustByExample/12)
+    + [12.3 测试 Testing](./RustByExample/12/Testing)
+    + [12.4 构建脚本 Build Scripts](./RustByExample/12)
+
++ [13 属性](./RustByExample/13)
+    + [13.1 dead_code](./RustByExample/13/Unused)
+    + [13.2 Crates](./RustByExample/13/Crate)
+    + [13.3 cfg](./RustByExample/13/Cfg)
+        + [13.3.1 Custom](./RustByExample/13/Custom)
+
+
 
 ## 2. 极客时间 [陈天 · Rust 编程第一课](https://time.geekbang.org/column/intro/435)
 
