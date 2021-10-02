@@ -75,6 +75,14 @@ Rust 学习
     + [9.3 Higher Order Functions](./RustByExample/9/HigherOrderFun)
     + [9.4 发散函数 Diverging functions](./RustByExample/9/DivergingFun)
 
++ [10 模块](./RustByExample/10)
+    + [10.1 可见性 Visibility](./RustByExample/10/Visibility)
+    + [10.2 Struct 可见性](./RustByExample/10/StructVisibility)
+    + [10.3 use 声明](./RustByExample/10/UseDeclar)
+    + [10.4 super and self](./RustByExample/10/SuperSelf)
+    + [10.5 文件层次 File hierarchy](./RustByExample/10/FileHierarchy)
+
+
 ## 2. 极客时间 [陈天 · Rust 编程第一课](https://time.geekbang.org/column/intro/435)
 
 + [开篇词 | 让 Rust 成为你的下一门主力语言 ](./TyrChen-Lesson-One/openings)
