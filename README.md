@@ -109,5 +109,6 @@ Rust 学习
 + [04 | get hands dirty：来写个实用的CLI小工具](./TyrChen-Lesson-One/04)
 + [05 | get hands dirty：做一个图片服务器有多难？](./TyrChen-Lesson-One/05)
 + [07 | 所有权：值的生杀大权到底在谁手上？](./TyrChen-Lesson-One/07)
-
++ [08 | 所有权：值的借用是如何工作的？](./TyrChen-Lesson-One/08)
++ [打卡练习](./TyrChen-Lesson-One/ClockIn)
 
