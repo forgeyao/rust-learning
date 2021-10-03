@@ -110,5 +110,6 @@ Rust 学习
 + [05 | get hands dirty：做一个图片服务器有多难？](./TyrChen-Lesson-One/05)
 + [07 | 所有权：值的生杀大权到底在谁手上？](./TyrChen-Lesson-One/07)
 + [08 | 所有权：值的借用是如何工作的？](./TyrChen-Lesson-One/08)
++ [10 | 生命周期：你创建的值究竟能活多久？](./TyrChen-Lesson-One/10)
 + [打卡练习](./TyrChen-Lesson-One/ClockIn)
 
