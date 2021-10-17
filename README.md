@@ -98,6 +98,15 @@ Rust 学习
     + [13.3 cfg](./RustByExample/13/Cfg)
         + [13.3.1 Custom](./RustByExample/13/Custom)
 
++ [14 泛型](./RustByExample/14/Generic)
+    + [14.1 泛型函数](./RustByExample/14/GenFn)
+    + [14.2 实现](./RustByExample/14/Impl)
+    + [14.3 特性](./RustByExample/14/GenTrai)
+    + [14.4 Bounds](./RustByExample/14/Bounds)
+        + [14.4.1 测试用例 empty bounds](./RustByExample/14/TestCaseEmpty)
+    + [14.5 Multiple bounds](./RustByExample/14/MultiBounds)
+    + [14.6 Where clause](./RustByExample/14/Where)
+    + [14.7 New Type Idiom](./RustByExample/14/NewTypes)
 
 
 ## 2. 极客时间 [陈天 · Rust 编程第一课](https://time.geekbang.org/column/intro/435)
